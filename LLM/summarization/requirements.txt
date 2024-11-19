@@ -1,0 +1,4 @@
+pymilvus 
+openai
+llama-index
+llama-index-vector-stores-milvus
